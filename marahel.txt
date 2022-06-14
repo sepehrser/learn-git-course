@@ -5,4 +5,4 @@
 4. git status
 5. git add marahel.txt
 6. git config -m "initial commit"
-
+   tekrare 3 ta 5
