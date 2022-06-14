@@ -1,0 +1,8 @@
+1. mkdir tamrin_git
+2. git config --global user.name "sepehrser"
+   git config --global user.email "sepehr.seraji@gmail.com"
+3. touch marahel.txt
+4. git status
+5. git add marahel.txt
+6. git config -m "initial commit"
+
