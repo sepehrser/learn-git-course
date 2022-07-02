@@ -9,3 +9,4 @@
 7. git diff (baraye moshahedeye taghirate repository)
    git diff marahel.txt (baraye moshahedeye taghirate yek file, name file ra 
    joloye git diff minevisim)   
+line 12 added
